@@ -1,5 +1,5 @@
 # COVID-POMDP-dashboard-tool
-The dashboard made with flexdashboard using package 'pomdp' in R
+The dashboard made with flexdashboard using package 'pomdp' in R. See https://efp-hfx-ds.shinyapps.io/Dash_POMDP_May11/
 
 The dashboard is to assess the COVID-19 status of one individual.
 
