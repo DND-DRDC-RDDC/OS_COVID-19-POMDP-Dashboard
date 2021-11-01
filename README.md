@@ -45,3 +45,8 @@ loaded via a namespace (and not attached):
 [13] tinytex_0.24        Ternary_1.1.4       xfun_0.15           yaml_2.2.1         
 [17] rsconnect_0.8.16    compiler_4.0.2      pkgconfig_2.0.3     askpass_1.1        
 [21] htmltools_0.5.0     openssl_1.4.2       knitr_1.29        
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Copyright (c) Her Majesty the Queen in Right of Canada, as represented by the Minister of National Defence, (2021).
